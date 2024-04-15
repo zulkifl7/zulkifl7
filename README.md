@@ -11,15 +11,6 @@
   </style>  
   </head>
 <body>
-  <div class="markdown-content">
-
-
-  </div>
-  <script src="marked.js"></script>  <script>
-    document.getElementById('markdown-content').innerHTML = marked(yourMarkdownContentString);
-  </script>
-</body>
-</html>
 
 <main style="padding:3vh">
 <div style="align-self:center">
@@ -77,6 +68,15 @@
 ## **Looking for a collaborator, mentor, or just someone to geek out with about code? Feel free to reach out!**
 
 </main>
+
+  <div class="markdown-content">
+
+  </div>
+  <script src="marked.js"></script>  <script>
+    document.getElementById('markdown-content').innerHTML = marked(yourMarkdownContentString);
+  </script>
+</body>
+</html>
 
 <h3 align="center">A passionate frontend developer from India</h3>
 

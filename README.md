@@ -1,13 +1,18 @@
 ## Zulkifl Ajmal: Building the future, one line of code at a time!  ‍
 
-<img src="https://github.com/zulkifl7/zulkifl7/assets/61009501/88ab6810-200b-4b73-9fd9-a3ebaff357f7" alt="Kitten" title="A cute kitten" width="150" height="100" />
-
-![IMG_4069-min-min](https://github.com/zulkifl7/zulkifl7/assets/61009501/88ab6810-200b-4b73-9fd9-a3ebaff357f7)
-
-
-**Developer | Algorithm Expert | Programming Mentor**
+<div style="display:flex">
+  <img src="https://github.com/zulkifl7/zulkifl7/assets/61009501/88ab6810-200b-4b73-9fd9-a3ebaff357f7" alt="Kitten" title="A cute kitten" width="600" height="600" />
+  **Developer | Algorithm Expert | Programming Mentor**
 
 I'm Zulkifl Ajmal, and I'm passionate about unraveling the mysteries of code and algorithms!  For over 4 years, I've been empowering aspiring programmers to unlock their potential. 
+</div>
+
+
+
+
+
+
+
 
 **Education**
 

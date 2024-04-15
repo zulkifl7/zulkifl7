@@ -1,64 +1,24 @@
-‍
 
+<!DOCTYPE html>
 <html>
-<head>
-  <title>My Markdown Content</title>
-  <style>
-    .my-name {
-      padding:0;
-      margin-bottom:0;
-    }
-    .my-name2 {
-      padding:0;
-      margin-top:0;
-    }
-    .top {
-      display:flex;
-      align-items:center;
-      justify-content :center;
-    }
-    .image {
-      max-width : 300px;
-      min-width : 200px;
-      width : 200vh;
-      padding: 5vh;
-      align-self:center;
-      border-radius:50%;
-      background-color:black;
-    }
-.image2 {
-      max-width : 300px;
-      min-width : 200px;
-      width : 200vh;
-      padding: 5vh;
-      align-self:center;
-      border-radius:50%;
-      background-color:white;
-    }
-    .my-self{
-      display:flex;
-      align-items:center;
-      flex-direction:row;
-      padding-left: 4vh;
-    }
 
-  </style>  
-  </head>
 <body>
 <main style="padding:3vh">
-<h1 class="my-name">Zulkifl Ajmal:</h1> 
-<h2 class="my-name2">Building the future, one line of code at a time!
+<h1 style="
+      padding:0;
+      margin-bottom:0;">Zulkifl Ajmal:</h1> 
+<h2 style="padding:0;margin-top:0" class="my-name2">Building the future, one line of code at a time!
 </h2>
 
-<div class = "top">
+<div  style="background-color:black;display:flex;align-items:center;justify-content:center" class = "top">
 <div>
-<div class = "image">
+<div style="max-width:300px;min-width:200px;width:200vh;padding: 5vh;align-self:center;border-radius:50%;background-color:black" class = "image">
 
-<img alt="hello" class="image2" src="https://github.com/zulkifl7/zulkifl7/assets/61009501/aa621477-7690-4138-bcdd-a2c90018da06">
+<img style="max-width:300px;min-width:200px;width:200vh;padding:5vh;align-self:center;border-radius:50%;background-color:white" class="image2" src="https://github.com/zulkifl7/zulkifl7/assets/61009501/aa621477-7690-4138-bcdd-a2c90018da06">
 
 </div>
 </div>
-<div class="my-self">
+<div style="display:flex;align-items:center;flex-direction:row;padding-left:4vh" class="my-self">
   <div>
     <h3>
       Developer | Algorithm Expert | Programming Mentor
@@ -107,6 +67,15 @@
 ## **Looking for a collaborator, mentor, or just someone to geek out with about code? Feel free to reach out!**
 
 </main>
+
+  <div class="markdown-content">
+
+  </div>
+  <script src="marked.js"></script>  <script>
+    document.getElementById('markdown-content').innerHTML = marked(yourMarkdownContentString);
+  </script>
+</body>
+</html>
 
   <div class="markdown-content">
 

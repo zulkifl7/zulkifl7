@@ -1,6 +1,28 @@
 ## Zulkifl Ajmal: Building the future, one line of code at a time! ‍
 
-<div style="display:flex; align-items: center">
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Markdown Content</title>
+  <style>
+    .aa{
+      
+    }
+  </style>  
+  </head>
+<body>
+  <div class="markdown-content">
+
+
+  </div>
+  <script src="marked.js"></script>  <script>
+    document.getElementById('markdown-content').innerHTML = marked(yourMarkdownContentString);
+  </script>
+</body>
+</html>
+
+<main style="padding:3vh">
+<div style="align-self:center">
 
 ![my video](https://github.com/zulkifl7/zulkifl7/assets/61009501/aa621477-7690-4138-bcdd-a2c90018da06)
 
@@ -53,6 +75,8 @@
 (Add a fun fact about yourself to make your profile more engaging)
 
 ## **Looking for a collaborator, mentor, or just someone to geek out with about code? Feel free to reach out!**
+
+</main>
 
 <h3 align="center">A passionate frontend developer from India</h3>
 

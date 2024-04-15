@@ -26,7 +26,21 @@
       align-self:center;
       border-radius:50%;
       background-color:black;
-
+    }
+.image2 {
+      max-width : 300px;
+      min-width : 200px;
+      width : 200vh;
+      padding: 5vh;
+      align-self:center;
+      border-radius:50%;
+      background-color:white;
+    }
+    .my-self{
+      display:flex;
+      align-items:center;
+      flex-direction:row;
+      padding-left: 4vh;
     }
 
   </style>  
@@ -38,13 +52,14 @@
 </h2>
 
 <div class = "top">
+<div>
 <div class = "image">
 
-<img src = "https://github.com/zulkifl7/zulkifl7/assets/61009501/aa621477-7690-4138-bcdd-a2c90018da06">
+<img class="image2" src="https://github.com/zulkifl7/zulkifl7/assets/61009501/aa621477-7690-4138-bcdd-a2c90018da06">
 
 </div>
-
-<div style="display: flex; align-items: center; flex-direction:row">
+</div>
+<div class="my-self">
   <div>
     <h3>
       Developer | Algorithm Expert | Programming Mentor

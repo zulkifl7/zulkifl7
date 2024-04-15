@@ -1,6 +1,6 @@
 ### Hi there 👋
+
 https://github.com/zulkifl7/zulkifl7/assets/61009501/ff3f307f-5779-4948-9702-5f1a44ba754b
-https://github.com/zulkifl7/zulkifl7/blob/main/myvideo.mp4
 # Hi there , I'm [Your Name]
 
 **Software Engineer** with a passion for building innovative and user-friendly applications. Always up for a challenge and eager to learn new things.   In my free time, I enjoy [Your Hobby]. 

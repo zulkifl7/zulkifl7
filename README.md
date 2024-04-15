@@ -1,4 +1,7 @@
 ### Hi there 👋
+![myfile](https://user-images.githubusercontent.com/52455330/139071980-91302a8a-37b1-4196-803e-f91b1de2ee5b.gif)
+
+![IMG_82831](https://github.com/zulkifl7/zulkifl7/assets/61009501/2c05daaf-324a-48f5-af00-50aee49e3746)
 
 https://github.com/zulkifl7/zulkifl7/assets/61009501/ff3f307f-5779-4948-9702-5f1a44ba754b
 # Hi there , I'm [Your Name]
@@ -7,11 +10,11 @@ https://github.com/zulkifl7/zulkifl7/assets/61009501/ff3f307f-5779-4948-9702-5f1
 
 ## Stats
 
-<a href="https://github.com/[Your Username]">  <img src="https://img.shields.io/github/stars/[Your Username]/[Your Most Starred Repo].svg?style=social" alt="GitHub stars">
+<a href="https://github.com/zulkifl7">  <img src="https://img.shields.io/github/stars/[Your Username]/[Your Most Starred Repo].svg?style=social" alt="GitHub stars">
 </a>
-<a href="https://github.com/[Your Username]">  <img src="https://img.shields.io/github/forks/[Your Username]/[Your Most Forked Repo].svg?style=social" alt="GitHub forks">
+<a href="https://github.com/zulkifl7">  <img src="https://img.shields.io/github/forks/[Your Username]/[Your Most Forked Repo].svg?style=social" alt="GitHub forks">
 </a>
-<a href="https://github.com/[Your Username]">  <img src="https://img.shields.io/github/commits-y/[Your Username].svg?style=social" alt="GitHub yearly commits">
+<a href="https://github.com/zulkifl7">  <img src="https://img.shields.io/github/commits-y/[Your Username].svg?style=social" alt="GitHub yearly commits">
 </a>
 
 ## Featured Project

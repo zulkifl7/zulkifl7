@@ -1,21 +1,46 @@
-## Zulkifl Ajmal: Building the future, one line of code at a time! ‍
+‍
 
 <!DOCTYPE html>
 <html>
 <head>
   <title>My Markdown Content</title>
   <style>
-    .aa{
-      
+    .my-name {
+      padding:0;
+      margin-bottom:0;
     }
+    .my-name2 {
+      padding:0;
+      margin-top:0;
+    }
+    .top {
+      display:flex;
+      align-items:center;
+      justify-content :center;
+    }
+    .image {
+      max-width : 300px;
+      min-width : 200px;
+      width : 200vh;
+      padding: 5vh;
+      align-self:center;
+      border-radius:50%;
+      background-color:black;
+
+    }
+
   </style>  
   </head>
 <body>
-
 <main style="padding:3vh">
-<div style="align-self:center">
+<h1 class="my-name">Zulkifl Ajmal:</h1> 
+<h2 class="my-name2">Building the future, one line of code at a time!
+</h2>
 
-![my video](https://github.com/zulkifl7/zulkifl7/assets/61009501/aa621477-7690-4138-bcdd-a2c90018da06)
+<div class = "top">
+<div class = "image">
+
+<img src = "https://github.com/zulkifl7/zulkifl7/assets/61009501/aa621477-7690-4138-bcdd-a2c90018da06">
 
 </div>
 
@@ -29,7 +54,7 @@
     </p>
   </div>
 </div>
-
+</div>
 <h3>Education</h3>
 
 - **Undergraduate** (in progress): Bachelor of Technology honors in Engineering (Computer engineering specilization) - Open University of Sri Lanka

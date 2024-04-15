@@ -55,7 +55,7 @@
 <div>
 <div class = "image">
 
-<img class="image2" src="https://github.com/zulkifl7/zulkifl7/assets/61009501/aa621477-7690-4138-bcdd-a2c90018da06">
+<img alt="hello" class="image2" src="https://github.com/zulkifl7/zulkifl7/assets/61009501/aa621477-7690-4138-bcdd-a2c90018da06">
 
 </div>
 </div>

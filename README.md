@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![Video](file:myvideo.mp4)  # Hi there , I'm [Your Name]
+https://github.com/zulkifl7/zulkifl7/blob/main/myvideo.mp4
+# Hi there , I'm [Your Name]
 
 **Software Engineer** with a passion for building innovative and user-friendly applications. Always up for a challenge and eager to learn new things.   In my free time, I enjoy [Your Hobby]. 
 

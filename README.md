@@ -1,12 +1,12 @@
 ## Zulkifl Ajmal: Building the future, one line of code at a time!  ‍
 
 
-<div style="display: flex; align-items: center; flex-direction:column">
+<div style="display: flex; align-items: center; flex-direction:row">
   <img src="https://github.com/zulkifl7/zulkifl7/assets/61009501/88ab6810-200b-4b73-9fd9-a3ebaff357f7" alt="Image description" style="width: 200px; margin-right: 20px;">  
   <div>
-    <h1>
-      **Developer | Algorithm Expert | Programming Mentor**
-    </h1>
+    <h3>
+      Developer | Algorithm Expert | Programming Mentor
+    </h3>
     <p>
       I'm Zulkifl Ajmal, and I'm passionate about unraveling the mysteries of code and algorithms!  For over 4 years, I've been empowering aspiring programmers to unlock their potential.
     </p>

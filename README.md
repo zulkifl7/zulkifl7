@@ -1,6 +1,6 @@
 ## Zulkifl Ajmal: Building the future, one line of code at a time! ‍
 
-<div>
+<div style="align-items: center">
 
 ![my video](https://github.com/zulkifl7/zulkifl7/assets/61009501/aa621477-7690-4138-bcdd-a2c90018da06)
 

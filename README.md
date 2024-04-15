@@ -1,6 +1,5 @@
 ‍
 
-<!DOCTYPE html>
 <html>
 <head>
   <title>My Markdown Content</title>

@@ -1,8 +1,9 @@
 ## Zulkifl Ajmal: Building the future, one line of code at a time!  ‍
 
+![my video](https://github.com/zulkifl7/zulkifl7/assets/61009501/aa621477-7690-4138-bcdd-a2c90018da06)
+
 
 <div style="display: flex; align-items: center; flex-direction:row">
-  <img src="https://github.com/zulkifl7/zulkifl7/assets/61009501/88ab6810-200b-4b73-9fd9-a3ebaff357f7" alt="Image description" style="width: 200px; margin-right: 20px;">  
   <div>
     <h3>
       Developer | Algorithm Expert | Programming Mentor

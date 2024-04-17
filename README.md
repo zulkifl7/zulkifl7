@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html>
 
@@ -16,8 +15,6 @@
 <div style="max-width:300px;min-width:200px;width:200vh;padding: 5vh;align-self:center;border-radius:50%;background-color:black" class = "image">
 
 ![Red and White Modern Welcome to My Channel fIntro (1)](https://github.com/zulkifl7/zulkifl7/assets/61009501/1349e11a-9be7-489a-888b-f2db02544db3)
-
-
 
 </div>
 </div>
@@ -54,7 +51,7 @@
 
 **Let's Connect!**
 
-- **Email:** [your-email@domain.com] (Optional)
+- **Email:** zulkiflajmal@gmail.com (Optional)
 - **Portfolio/Website:** (Link to your website/portfolio) (Optional)
 - **[Social Media Platform 1](link to your social media profile)** (Optional)
 - **[Social Media Platform 2](link to your social media profile)** (Optional)
@@ -112,7 +109,7 @@ I'm Zulkifl Ajmal, and I'm passionate about unraveling the mysteries of code and
 
 ## 🌐 Socials:
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Zulkifl AJ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr.zulkifl) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@youngmentors) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@youngmentors)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/xNFZoTRLRXXZiZDf/?mibextid=WC7FNeJ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr.zulkifl) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@youngmentors) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@youngmentors)
 
 # 💻 Tech Stack:
 

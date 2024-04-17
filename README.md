@@ -1,6 +1,4 @@
-# Zulkifl Ajmal:
-
-**Building the future, one line of code at a time!**
+# Zulkifl Ajmal: Building the future, one line of code at a time!\*\*
 
 ![Red and White Modern Welcome to My Channel fIntro (1)](https://github.com/zulkifl7/zulkifl7/assets/61009501/1349e11a-9be7-489a-888b-f2db02544db3)
 

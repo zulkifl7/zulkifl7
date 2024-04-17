@@ -15,7 +15,9 @@
 <div>
 <div style="max-width:300px;min-width:200px;width:200vh;padding: 5vh;align-self:center;border-radius:50%;background-color:black" class = "image">
 
-<img style="max-width:300px;min-width:200px;width:200vh;padding:5vh;align-self:center;border-radius:50%;background-color:white" class="image2" src="https://github.com/zulkifl7/zulkifl7/assets/61009501/aa621477-7690-4138-bcdd-a2c90018da06">
+![Red and White Modern Welcome to My Channel fIntro (1)](https://github.com/zulkifl7/zulkifl7/assets/61009501/1349e11a-9be7-489a-888b-f2db02544db3)
+
+
 
 </div>
 </div>

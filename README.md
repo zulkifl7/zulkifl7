@@ -2,7 +2,7 @@
 
 ![Red and White Modern Welcome to My Channel fIntro (1)](https://github.com/zulkifl7/zulkifl7/assets/61009501/1349e11a-9be7-489a-888b-f2db02544db3)
 
-# Developer | Algorithm Expert | Programming Mentor
+# Full Stack Developer | Algorithm Expert | Programming Mentor
 
 **I'm Zulkifl Ajmal, and I'm passionate about unraveling the mysteries of code and algorithms! For over 4 years, I've been empowering aspiring programmers to unlock their potential.**
 

@@ -9,7 +9,7 @@
 # Education
 
 - **Undergraduate** (in progress): Bachelor of Technology honors in Engineering (Computer engineering specilization) - Open University of Sri Lanka
-- **Degree** (in progress): Computer Science with Artificial Intelligence - National Institute of Business Management (NIBM)
+- **Degree** (in progress): Computer Science with Artificial Intelligence - Coventry Universit, UK
 
 # Programming Languages
 

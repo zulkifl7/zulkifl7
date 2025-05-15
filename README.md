@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Zulkifl Ajmal
 **Building the future, one line of code at a time!**
 
-![Intro Banner](https://github.com/zulkifl7/zulkifl7/assets/61009501/1349e11a-9be7-489a-888b-f2db02544db3)
+![Red and White Modern Welcome to My Channel fIntro (1)](https://github.com/zulkifl7/zulkifl7/assets/61009501/1349e11a-9be7-489a-888b-f2db02544db3)
 
 ## 💻 Full Stack Developer | Algorithm Enthusiast | Programming Mentor
 
